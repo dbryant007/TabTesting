@@ -1,0 +1,10 @@
+C:\Users\Silve\OneDrive\Documents\GitHub\TabTesting\bin\Debug\TabTesting.exe.config
+C:\Users\Silve\OneDrive\Documents\GitHub\TabTesting\bin\Debug\TabTesting.exe
+C:\Users\Silve\OneDrive\Documents\GitHub\TabTesting\bin\Debug\TabTesting.pdb
+C:\Users\Silve\OneDrive\Documents\GitHub\TabTesting\obj\Debug\TabTesting.csproj.AssemblyReference.cache
+C:\Users\Silve\OneDrive\Documents\GitHub\TabTesting\obj\Debug\TabTesting.Form1.resources
+C:\Users\Silve\OneDrive\Documents\GitHub\TabTesting\obj\Debug\TabTesting.Properties.Resources.resources
+C:\Users\Silve\OneDrive\Documents\GitHub\TabTesting\obj\Debug\TabTesting.csproj.GenerateResource.cache
+C:\Users\Silve\OneDrive\Documents\GitHub\TabTesting\obj\Debug\TabTesting.csproj.CoreCompileInputs.cache
+C:\Users\Silve\OneDrive\Documents\GitHub\TabTesting\obj\Debug\TabTesting.exe
+C:\Users\Silve\OneDrive\Documents\GitHub\TabTesting\obj\Debug\TabTesting.pdb
